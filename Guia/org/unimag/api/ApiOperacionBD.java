@@ -9,8 +9,6 @@ public interface ApiOperacionBD<T, ID> {
     public T insertInto(T objeto, String ruta);
 
     public List<T> selectFrom();
-    //SON 30 PUNTOS!!!! NO LO BORRES 
-    //public List<T> selectFromWhereActivos();
 
     public int numRows();
 
