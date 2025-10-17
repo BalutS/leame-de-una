@@ -52,4 +52,8 @@ public class Editorial {
     public Editorial() {
     }
 
+    @Override
+    public String toString() {
+        return nombreEditorial;
+    }
 }

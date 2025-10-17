@@ -41,5 +41,10 @@ public class Autor {
     public void setCantidadLibrosAutor(Short cantidadLibrosAutor) {
         this.cantidadLibrosAutor = cantidadLibrosAutor;
     }
+
+    @Override
+    public String toString() {
+        return nombreAutor;
+    }
 }
 
