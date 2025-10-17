@@ -56,6 +56,16 @@ Por favor NO haga formularios o listados que NO se solicitan, enfoque sus esfuer
 
 Dentro del repositorio de github se encuentra la carpeta “Guia” dentro de esta carpeta se encuentran las clases de otro proyecto que debe ser utilizado como guía para crear e implementar los requisitos del programa. La sintaxis y diseño del código se debe implementar de la misma manera que en el proyecto “Guia” 
 
-Dentro del repositorio se encuentra la carpeta "Proyecto" que es la carpeta sobre la cual se realizaran los cambios e implementaciones.
+Dentro del repositorio se encuentra la carpeta "Proyecto" que es la carpeta sobre la cual se realizaran los cambios e implementaciones. No utilices sintaxis compleja, la sintaxis y estructura del codigo debe ser lo mas similar posible al proyecto "Guia"
+
+*IMPORTANTE
+No utilices sintaxis compleja, la sintaxis y estructura del codigo debe ser lo mas similar posible al proyecto "Guia".
+No borres o edites codigo ya existente que no sea vital para el funcionamiento del programa, aunque parezca no tener utilidad.
+Implementar la interfaz grafica, la distribucion de paquetes y de clases, de la misma manera quen el proyecto "Guia".
+
+
+
+
+
 
 
