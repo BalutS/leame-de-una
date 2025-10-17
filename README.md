@@ -56,5 +56,6 @@ Por favor NO haga formularios o listados que NO se solicitan, enfoque sus esfuer
 
 Dentro del repositorio de github se encuentra la carpeta “Guia” dentro de esta carpeta se encuentran las clases de otro proyecto que debe ser utilizado como guía para crear e implementar los requisitos del programa. La sintaxis y diseño del código se debe implementar de la misma manera que en el proyecto “Guia” 
 
+Dentro del repositorio se encuentra la carpeta "Proyecto" que es la carpeta sobre la cual se realizaran los cambios e implementaciones.
 
 
