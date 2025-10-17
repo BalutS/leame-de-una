@@ -1,0 +1,12 @@
+Proyecto/src/org/unimag/modelo/Autor.java
+Proyecto/src/org/unimag/modelo/Editorial.java
+Proyecto/src/org/unimag/modelo/Libro.java
+Proyecto/src/org/unimag/controlador/DashboardController.java
+Proyecto/src/org/unimag/servicio/LibroServicio.java
+Proyecto/src/org/unimag/servicio/EditorialServicio.java
+Proyecto/src/org/unimag/servicio/AutorServicio.java
+Proyecto/src/org/unimag/api/ApiOperacionBD.java
+Proyecto/src/org/unimag/app/Main.java
+Proyecto/src/org/unimag/dto/LibroDTO.java
+Proyecto/src/org/unimag/dto/EditorialDTO.java
+Proyecto/src/org/unimag/dto/AutorDTO.java
